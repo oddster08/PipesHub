@@ -9,7 +9,7 @@ export const specialties = [
 export const lawyers = [
   {
     id: 1,
-    name: 'Rajesh Kumar',
+    name: 'Abhinav Saharan',
     specialties: ['Criminal Law', 'Civil Law'],
     availability: {
       start: '09:00',
@@ -19,7 +19,7 @@ export const lawyers = [
   },
   {
     id: 2,
-    name: 'Priya Sharma',
+    name: 'Akshit Mehra',
     specialties: ['Family Law', 'Property Law'],
     availability: {
       start: '10:00',
@@ -29,7 +29,7 @@ export const lawyers = [
   },
   {
     id: 3,
-    name: 'Amit Patel',
+    name: 'Lakshya Singh',
     specialties: ['Corporate Law', 'Property Law'],
     availability: {
       start: '08:00',
